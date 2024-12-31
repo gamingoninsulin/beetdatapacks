@@ -1,0 +1,15 @@
+{
+    "name": "Multoblocks",
+    "description": "Adds Multiblocks to minecraft.",
+    "require": [
+        "bolt"
+    ],
+    "data_pack": {
+        "load": ["src"]
+    },
+    "resource_pack": {
+        "load": ["src"]
+    },
+    "pipeline": ["mecha"],
+    "output": "build"
+}
